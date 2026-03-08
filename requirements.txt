@@ -1,18 +1,18 @@
 # Core NLP - Python 3.13 compatible versions
-sentence-transformers==3.4.1
-transformers==4.49.0
-torch==2.6.0
-torchvision==0.21.0
-torchaudio==2.6.0
+sentence-transformers==4.38.2
+transformers==4.38.2
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
 
 # Text Processing - Python 3.13 compatible
-nltk==3.9.1
+nltk==3.8.1
 # Spacy ko temporarily hatao, baad mein install karenge
-# textblob==0.19.0
-textblob==0.18.0.post0
+# textblob==0.17.1
+textblob==0.17.1
 
 # Data Handling
-pandas==2.2.3
+pandas==2.1.4
 numpy==1.26.4
 scikit-learn==1.6.1
 
