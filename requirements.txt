@@ -13,7 +13,7 @@ textblob==0.18.0.post0
 
 # Data Handling
 pandas==2.2.3
-numpy==2.2.4
+numpy==1.26.4
 scikit-learn==1.6.1
 
 # Vector Database
